@@ -27,18 +27,5 @@ The dataset contains intentional issues such as missing values, duplicates, inco
 - Data quality controls
 - Documentation and attention to detail
 
-- ## Screenshots
-
-### Cleaned Dataset
-![Cleaned Data](cleaned_data_sheet.png)
-
-### Conditional Formatting Logic
-![Conditional Formatting](conditional_formatting.png)
-
-### Data Validation Rules
-![Data Validation](data_validation.png)
-
-### Issues Log
-![Issues Log](issues_log.png)
 
 
