@@ -31,24 +31,28 @@ The dataset contains intentional issues such as missing values, duplicates, inco
 
 ### Cleaned Dataset
 ![Cleaned Data](Clean_Data_Sheet.PNG)
+
 *Final cleaned dataset with standardized formats and conditional formatting applied to highlight data quality issues.*
 
 ---
 
 ### Conditional Formatting
 ![Conditional Formatting](Conditional_Formatting.PNG)
+
 *Custom conditional formatting rules used to flag missing or invalid values only when a record contains data, preventing false positives in empty rows.*
 
 ---
 
 ### Data Validation Rules
 ![Data Validation](Data_Validation.PNG)
+
 *Data validation rules applied to enforce allowed values, restrict invalid numeric entries, and prevent future-dated records.*
 
 ---
 
 ### Issues Log
 ![Issues Log](Issues_Log.PNG)
+
 *Structured issues log documenting identified data quality problems, detection methods, and actions taken during the*
 
 
