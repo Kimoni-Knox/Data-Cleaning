@@ -40,8 +40,6 @@ The dataset contains intentional issues such as missing values, duplicates, inco
 ![Conditional Formatting](Conditional_Formatting.PNG)
 *Custom conditional formatting is used to flag missing or invalid values only when a record contains data, preventing false positives in unused rows.*
 
-```excel
-=AND(F2="",COUNTA(A2:E2)>0)
 
 ---
 
