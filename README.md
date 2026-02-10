@@ -39,7 +39,9 @@ The dataset contains intentional issues such as missing values, duplicates, inco
 ### Conditional Formatting
 ![Conditional Formatting](Conditional_Formatting.PNG)
 
-*Custom conditional formatting rules used to flag missing or invalid values only when a record contains data, preventing false positives in empty rows.*
+*Custom conditional formatting rules used to flag missing or invalid values only when a record contains data, preventing false positives in empty rows. To avoid flagging unused rows, a custom formula was used to highlight missing values only when a row contained data:
+
+=AND(F2="",COUNTA(A2:E2)>0)*
 
 ---
 
