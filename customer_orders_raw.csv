@@ -1,0 +1,10 @@
+Order_ID,Customer_Name,Email,Phone,Order_Date,Amount,Status
+1001,Kim Smith,kim.smith@email.com,555-123-4567,01/12/2025,120,Completed
+1002,Alex Johnson,,5551234567,2025-01-15,85,complete
+1003,Maria Lopez,maria@email.com,,1/20/25,200,Done
+1004,Chris Lee,chris@email.com,555-999-1111,2025/01/22,-45,Completed
+1005,Kim Smith,kim.smith@email.com,555-123-4567,01-12-2025,120,completed
+1006,,noemail.com,555-777-8888,02/01/2025,60,Pending
+1007,Jordan Brown,jordan@email.com,555-333-2222,02/03/2025,,Cancelled
+1007,Jordan Brown,jordan@email.com,555-333-2222,02/03/2025,75,Cancelled
+1008,Ash Patel,ash@email.com,555-000-0000,02/05/2026,90,COMPLETED
